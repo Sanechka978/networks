@@ -1,3 +1,4 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="node" attr.name="faculty_name" attr.type="string"/>
 <key id="d5" for="node" attr.name="university_name" attr.type="string"/>
 <key id="d4" for="node" attr.name="city" attr.type="string"/>
 <key id="d3" for="node" attr.name="bdate" attr.type="string"/>
